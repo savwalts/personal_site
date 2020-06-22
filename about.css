@@ -1,0 +1,107 @@
+html {
+    background-color: #A5CACC;
+}
+
+
+/* BUTTONS */
+.tablink {
+    background-color: #A5CACC;
+    color: white;
+    float: center;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 24%
+  }
+  
+  .tablink:hover {
+    background-color: #bbdddf;
+  }
+
+  .tabcontent {
+    color: white;
+    display: none;
+    padding: 5px;
+  }
+
+
+/* HEADER */
+.logo {
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    margin: 0 auto;
+    text-align: center;
+}
+
+/* MAIN */
+/* 
+h3 {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+} */
+
+#sav {
+    border: 5px solid white;
+    width: 50%;
+}
+
+ /* div p {
+     color: white;
+     font-family: 'Montserrat', sans-serif;
+     font-weight: bolder;
+     border: thistle 5px;
+     box-sizing: border-box; 
+     margin: 5px;
+     padding: 5px;
+ } */
+
+hr {
+    color: white;
+}
+
+a {
+text-decoration: none;
+}
+
+.name {
+    font-size: 23px;
+    color: white;
+    float: right;
+}
+
+.content {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    font-size: 26px;
+    float: right;
+    border: white; 
+    margin: 40px;
+    padding: 5px;
+    width: 500px;
+    box-shadow: 2px, 5px grey;
+ }
+
+
+/* FOOTER */
+#insta {
+    margin-left: 42%;
+    width: 5%;
+}
+#FB {
+    width: 5%;
+}
+#email {
+    width: 5%;
+}
+
+
+font-family: 'Lato', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Raleway', sans-serif;
+
+* {
+    background-color:red;
+}

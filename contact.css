@@ -1,0 +1,84 @@
+html {
+    background-color: #A5CACC;
+}
+
+
+/* BUTTONS */
+.tablink {
+    background-color: #A5CACC;
+    color: white;
+    float: center;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 24%
+  }
+  
+  .tablink:hover {
+    background-color: #bbdddf;
+  }
+
+  .tabcontent {
+    color: white;
+    display: none;
+    padding: 5px;
+  }
+
+
+/* HEADER */
+.logo {
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    margin: 0 auto;
+    text-align: center;
+}
+
+hr {
+    color: white;
+}
+
+a {
+text-decoration: none;
+}
+
+/* MAIN */
+
+.message-form {
+    width: 480px;
+    font-family: sans-serif;
+    /* background-color: rgb(173, 112, 55); */
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.message-form-actions, {
+    background-color: grey;
+    padding: 5px;
+}
+
+.message-title {
+    background-color: grey;
+    color: white;
+}
+
+
+/* FOOTER */
+#insta {
+    margin-left: 42%;
+    width: 5%;
+}
+#FB {
+    width: 5%;
+}
+#email {
+    width: 5%;
+}
+
+
+
+/* font-family: 'Lato', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Raleway', sans-serif; */
